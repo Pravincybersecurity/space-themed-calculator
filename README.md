@@ -25,7 +25,7 @@ A stunning, interactive calculator designed with a space-inspired theme. Featuri
 
  🖥️ Demo
 
-🌟 Live version:
+🌟 Live version:https://pravincybersecurity.github.io/space-themed-calculator/
 
 ---
 
